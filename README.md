@@ -1,4 +1,4 @@
-# 📊 Generation Brasil | Análise de Dados
+# 📊 Generation Brasil | Analista de Dados
 
 Aplicações práticas, automações e pipelines de dados desenvolvidos durante o Bootcamp de Análise de Dados da **Generation Brasil**. O objetivo deste repositório é consolidar o domínio técnico em engenharia de dados (ingestão e ETL), análise exploratória (EDA), modelagem e visualização de dados voltados para tomadas de decisão de negócio.
 
